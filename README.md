@@ -1,6 +1,8 @@
 # jbeatbox
 > BeatBox swing app, with simple networking and chat capabilities.
 
+![Main Screen](https://raw.githubusercontent.com/marcelothebuilder/jbeatbox/master/docs/main_demo.png "Main Screen")
+
 Created a long time ago while reading [Head First Java, Second Edition](http://www.headfirstlabs.com/books/hfjava/).
 
 # Usage
